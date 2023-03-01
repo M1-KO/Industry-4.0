@@ -35,10 +35,11 @@ Seaborn
 Scikit-learn
 TensorFlow
 
-How to Use
+How to Use:
 Clone the repository to your local machine.
 Open the Google Collab notebooks in the notebooks directory to see the code and results of the various parts of the project.
 Run the scripts in the models directory to train and test the machine learning models.
 Refer to the project report in the reports directory for more details on the project and its results.
-Conclusion
+
+Conclusion:
 This project demonstrates the use of machine learning algorithms to predict sensor characteristics in air, water, and isopropanol. By following the steps outlined in this repository, you can explore the data, preprocess and engineer features, and build and evaluate machine learning models for your own industry 4.0 applications.
